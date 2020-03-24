@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:\PCB\4keys\4Keys.sch)
-    (date "24/03/2020 15:15:36")
+    (date "24/03/2020 15:31:39")
     (tool "Eeschema (5.1.5)-3")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -44,7 +44,7 @@
       (sheetpath (names /) (tstamps /))
       (tstamp 5E78253B))
     (comp (ref C5)
-      (value C_Small)
+      (value 1uF)
       (footprint Capacitor_SMD:C_0805_2012Metric)
       (datasheet ~)
       (libsource (lib Device) (part C_Small) (description "Unpolarized capacitor, small symbol"))
