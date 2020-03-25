@@ -660,8 +660,6 @@ Text GLabel 4175 1725 0    50   Input ~ 0
 row0
 Text GLabel 4175 2450 0    50   Input ~ 0
 row1
-Text GLabel 2700 2100 2    50   Input ~ 0
-col0
 Text GLabel 2700 2000 2    50   Input ~ 0
 col1
 Text GLabel 2700 1800 2    50   Input ~ 0
@@ -762,7 +760,6 @@ NoConn ~ 2700 4100
 NoConn ~ 2700 4000
 NoConn ~ 2700 3800
 NoConn ~ 2700 3400
-NoConn ~ 2700 3300
 NoConn ~ 2700 3200
 NoConn ~ 2700 3100
 NoConn ~ 2700 3000
@@ -813,4 +810,7 @@ Connection ~ 5350 1325
 Text GLabel 2700 1900 2    50   Input ~ 0
 col2
 NoConn ~ 2700 2200
+Text GLabel 2700 3300 2    50   Input ~ 0
+col0
+NoConn ~ 2700 2100
 $EndSCHEMATC
